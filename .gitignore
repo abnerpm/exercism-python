@@ -1,0 +1,6 @@
+.exercism
+*.md
+*.ini
+*_test.py
+.pytest_cache
+__pycache__
